@@ -96,7 +96,7 @@ window.addEventListener("load", function(){
         document.body.appendChild(canvas);
 
         canvas.style.top = Math.floor(document.body.offsetHeight/2-canvas.offsetHeight/2)+"px"
-        canvas.style.left = Math.floor(document.body.offsetWidth/2-canvas.offsetHeight/2)+"px"
+        canvas.style.left = Math.floor(document.body.offsetWidth/2-canvas.offsetWidth/2)+"px"
         canvas.style.cursor = "pointer";
         canvas.addEventListener("click", function(){
             document.location = GITHUB_URL;
