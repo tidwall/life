@@ -5,4 +5,4 @@ Life (what is it good for?)
 
 [Live Demo](http://tidwall.com/life/)
 
-<img src="http://i.imgur.com/3JqNO7r.gif">
+<img src="http://i.imgur.com/3JqNO7r.gif" width="400">
