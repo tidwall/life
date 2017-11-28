@@ -28,7 +28,7 @@ window.addEventListener("load", function(){
 		"}",
     ].join("\n");
     document.head.appendChild(sheet);
-	document.title = "life... what's it good for?";
+	document.title = "Conway's Game of Life";
 
     // the most dazzling background gradient
     if (BACKGROUND){
